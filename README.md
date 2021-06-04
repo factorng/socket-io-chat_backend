@@ -1,16 +1,11 @@
-# Socket.io chat app
+# Socket.io chat app backend
 
 Chat application
 
-### Features
+### Used technologies
 
-- Entering chat user creates name and chat room
-- User can joins other user's chat rooms
-- User can invite another user to join chat room via link
-- Users can send messages to chat room
-- Every message has a author's name and a timestamp
-- Users can seen all users in a chat room
-- Backend hosted on Heroku
-- Frontend hosted on GhPages
+- Node.js
+- Express.js
+- Socket.io
 
-Gh-pages link: [https://factorng.github.io/socket-io-chat/]
+Gh-pages link to frontend: [https://factorng.github.io/socket-io-chat/]
